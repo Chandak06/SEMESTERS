@@ -1,0 +1,14 @@
+.venv/
+.cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/train/
+data/student_test/
+data/evaluator_test/
+artifacts/features/
+.env
+.env.*
+*.key
+*.pem
+
