@@ -1,0 +1,18 @@
+{
+  "api": "http://127.0.0.1:8010",
+  "ui": "http://127.0.0.1:8521",
+  "trip_requested": "first in list",
+  "shots": [
+    "api_health.png",
+    "api_trips.png",
+    "api_docs.png",
+    "ui_before_prediction.png",
+    "ui_prediction.png",
+    "folium_00000000.png",
+    "folium_00000052.png"
+  ],
+  "ui_text": "PathSnap\n\nDistributed map matching and route reconstruction \u2014 evaluator interface (Laptop 2)\n\nSTUDENT-TESTING DEVELOPMENT MODE \u2014 these are the ten supplied student-testing trips, not the reserved evaluator trips.\n\nChoose a trip (10 available)\n\nPredict Route\n\nPredicted route for trip 00000000\n\nObservation Top-1 accuracy\n\n93.77%\n\nRoute continuity\n\n98.64%\n\nServer processing time\n\n1.80 s\n\nRound-trip time\n\n2.01 s\n\nMetrics: Server-side monotone reference-alignment proxy; not independently verified point labels\n\nPredicted route: 282 road arcs (original arc IDs) \u00b7 2503 of 2503 GPS observations matched \u00b7 route breaks: 5 \u00b7 candidate road segments shown: 987\n\nkeyboard_arrow_right\n\nPredicted road sequence (original arc IDs)\n\nkeyboard_arrow_right\n\nAll returned metrics",
+  "trip_shown_in_ui": "00000000",
+  "captured_at": "2026-11-18 13:13:09",
+  "cross_laptop": false
+}

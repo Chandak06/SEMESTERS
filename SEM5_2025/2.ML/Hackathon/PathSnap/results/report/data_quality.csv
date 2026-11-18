@@ -1,0 +1,11 @@
+,student_test,train,evaluator_test
+observations,19160,208417,not supplied
+invalid_gps,0,0,not supplied
+missing_values,0,0,not supplied
+duplicate_timestamps,0,0,not supplied
+reversed_timestamps,0,0,not supplied
+gaps_over_30s,2,133,not supplied
+alignment_over_80m,20,21128,not supplied
+reference_breaks,1,13,not supplied
+zero_length_arcs,6,100,not supplied
+isolated_nodes,0,0,not supplied
